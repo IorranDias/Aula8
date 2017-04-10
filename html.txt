@@ -6,8 +6,9 @@
 	</head>
 	<body>
 		<div id="header">
-			<p id="name">Iorran Pedro dias</p>
-			<a href="mailto:you@yourdomain.com"><p id="email">iorran.dias@hotmail.com</p></a>
+		        <p>Imagem<img src="imag1"></p>
+			<p> id="name">Iorran Pedro dias</p>
+			<a> href="mailto:you@yourdomain.com"><p id="email">iorran.dias@hotmail.com</p></a>
 		</div>
 		<div class="left"></div>
 		<div class="right">
